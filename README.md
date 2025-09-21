@@ -3,6 +3,7 @@ So basically we tried to make our own model and trained it with various datatype
 Link of ppt:-    https://gamma.app/docs/Conflexxia-ML-Powered-Health-Analysis-Platform-o30fvfnb4i5wq91 
 
 Link of our model   https://colab.research.google.com/drive/1uytETC_GN6_yoWAeN4sLEoTawNoTscQf?usp=sharing 
+
 Link of our desired model that we made using API:--  https://basic-health-guide.lovable.app 
 
 
